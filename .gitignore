@@ -1,0 +1,14 @@
+*.o
+*.a
+*.out
+*.exe
+*.tmp
+*.swp
+
+a.out
+test.c
+.vscode/
+
+build/
+bin/
+obj/
